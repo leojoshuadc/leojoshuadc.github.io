@@ -1,4 +1,18 @@
 body
 {
-  font-family: Verdana;
+  background: #999;
+  font-family: Times;
+  padding: 10px, 10px, 10px, 10px;
+}
+
+h1
+{
+  background: #777;
+  font-family: Tahoma;
+}
+
+.lara
+{
+  background: #222;
+  font-family: Georgia;
 }
